@@ -3,7 +3,7 @@
 <h3 align="center">i am backend developer (Python)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronin1777&label=Profile%20views&color=0e75b6&style=flat" alt="ronin1777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronin1777&theme=" alt="ronin1777" /></a> </p>
+
 
 - 🔭 I’m currently working on [api_question](https://github.com/ronin1777/api_question)
 
